@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SGPA_Calculator</string>
+    <string name="next">Next-></string>
+    <string name="sgpa">SGPA</string>
+    <string name="calculator">Calculator</string>
+    <string name="name">Enter Name</string>
+    <string name="enter_sgpa">Enter SGPA</string>
+    <string name="calculate">Calculate Percentage</string>
+    <string name="empty_string"></string>
+</resources>
